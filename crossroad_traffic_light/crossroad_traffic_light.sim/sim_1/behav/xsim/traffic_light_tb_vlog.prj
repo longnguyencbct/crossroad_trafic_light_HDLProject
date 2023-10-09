@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../crossroad_traffic_light.srcs/sources_1/imports/new/bitcounter27.v" \
+"../../../../crossroad_traffic_light.srcs/sources_1/new/traffic_light_module.v" \
+"../../../../crossroad_traffic_light.srcs/sim_1/new/traffic_light_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

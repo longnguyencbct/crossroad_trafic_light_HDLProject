@@ -1,0 +1,8 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+D:/University/LogicDesignWithHDL/crossroad_traffic_light/crossroad_traffic_light.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+D:/University/LogicDesignWithHDL/crossroad_traffic_light/crossroad_traffic_light.srcs/sim_1/new/traffic_light_tb.v,1651739946,verilog,,,,traffic_light_tb,,,,,,,,
+D:/University/LogicDesignWithHDL/crossroad_traffic_light/crossroad_traffic_light.srcs/sources_1/imports/new/bitcounter27.v,1651741593,verilog,,D:/University/LogicDesignWithHDL/crossroad_traffic_light/crossroad_traffic_light.srcs/sources_1/new/traffic_light_module.v,,bitcounter27,,,,,,,,
+D:/University/LogicDesignWithHDL/crossroad_traffic_light/crossroad_traffic_light.srcs/sources_1/new/traffic_light_module.v,1651739550,verilog,,D:/University/LogicDesignWithHDL/crossroad_traffic_light/crossroad_traffic_light.srcs/sim_1/new/traffic_light_tb.v,,traffic_light_module,,,,,,,,
